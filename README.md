@@ -8,6 +8,9 @@ L’obiettivo non è solo offrire software gratuito, ma stabilire un nuovo stand
 
 ---
 
+<img width="1440" height="664" alt="image" src="https://github.com/user-attachments/assets/35392108-f037-42de-a78b-2f6d1398e4d6" />
+
+
 ### 📦 Ecosistema dei Servizi OSSp
 
 | Servizio | Descrizione Rapida | Repository Ufficiale | Licenza |
