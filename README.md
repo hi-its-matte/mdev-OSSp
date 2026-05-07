@@ -8,20 +8,19 @@ L’obiettivo non è solo offrire software gratuito, ma stabilire un nuovo stand
 
 ---
 
-<img width="1440" height="664" alt="image" src="https://github.com/user-attachments/assets/35392108-f037-42de-a78b-2f6d1398e4d6" />
 
 
 ### 📦 Ecosistema dei Servizi OSSp
 
 | Servizio | Descrizione Rapida | Repository Ufficiale | Licenza |
 | :--- | :--- | :--- | :--- |
-| **MatteDev Quill** | Editor di testo e produttività d'élite. | [Vai alla Repo](https://github.com/hi-its-matte/mattedev-quill) | MIT |
-| **MatteDev AI** | Assistenza intelligente accessibile a tutti. | [Vai alla Repo](https://github.com/hi-its-matte/MatteDev-Ai) | MIT |
-| **mdev-platform** | Il launcher e cuore pulsante della suite. | [Vai alla Repo](https://github.com/hi-its-matte/mdev-platform) | MIT |
-| **ShortCut** | Strumento per l'ottimizzazione dei flussi quotidiani. | [Vai alla Repo](https://github.com/hi-its-matte/ShortCut) | MIT |
-| **mywebsite** | Il portale ufficiale di MatteDev Studio. | [Vai alla Repo](https://github.com/hi-its-matte/mywebsite) | MIT |
-| **Event2026** | Gestione e visualizzazione eventi per l'anno 2026. | [Vai alla Repo](https://github.com/hi-its-matte/Event2026) | MIT |
-| **boards-website** | Sistema di gestione bacheche e contenuti web. | [Vai alla Repo](https://github.com/hi-its-matte/boards-website) | MIT |
+| **MatteDev Quill** | Editor di testo e produttività d'élite. | [Vai alla Repo](https://github.com/hi-its-matte/mattedev-quill) | AGPL |
+| **MatteDev AI** | Assistenza intelligente accessibile a tutti. | [Vai alla Repo](https://github.com/hi-its-matte/MatteDev-Ai) | AGPL |
+| **mdev-platform** | Il launcher e cuore pulsante della suite. | [Vai alla Repo](https://github.com/hi-its-matte/mdev-platform) | AGPL |
+| **ShortCut** | Strumento per l'ottimizzazione dei flussi quotidiani. | [Vai alla Repo](https://github.com/hi-its-matte/ShortCut) | AGPL |
+| **mywebsite** | Il portale ufficiale di MatteDev Studio. | [Vai alla Repo](https://github.com/hi-its-matte/mywebsite) | AGPL |
+| **Event2026** | Gestione e visualizzazione eventi per l'anno 2026. | [Vai alla Repo](https://github.com/hi-its-matte/Event2026) | AGPL |
+| **boards-website** | Sistema di gestione bacheche e contenuti web. | [Vai alla Repo](https://github.com/hi-its-matte/boards-website) | AGPL |
 
 ---
 
