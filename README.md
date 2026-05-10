@@ -21,6 +21,7 @@ L’obiettivo non è solo offrire software gratuito, ma stabilire un nuovo stand
 | **mywebsite** | Il portale ufficiale di MatteDev Studio. | [Vai alla Repo](https://github.com/hi-its-matte/mywebsite) | AGPL |
 | **Event2026** | Gestione e visualizzazione eventi per l'anno 2026. | [Vai alla Repo](https://github.com/hi-its-matte/Event2026) | AGPL |
 | **boards-website** | Sistema di gestione bacheche e contenuti web. | [Vai alla Repo](https://github.com/hi-its-matte/boards-website) | AGPL |
+| **mdev-app** | Store ufficiale | [Vai alla Repo](https://github.com/hi-its-matte/mdev-apps) | AGPL |
 
 ---
 
